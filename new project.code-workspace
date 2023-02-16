@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../new project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "/Users/jorgealiagamaldonado/Desktop/Certus/Catalogo-jorgealiaga",
+		"liveServer.settings.multiRootWorkspaceName": "Catalogo-jorgealiaga"
+	}
+}

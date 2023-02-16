@@ -1,0 +1,83 @@
+* { box-sizing: content-box;}
+
+body { background-color: #FBFBFB;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+html, body { overflow-x: hidden; }
+
+
+
+.container-title{ background-color: #0B52BA;
+height: auto;}
+
+.tv-div-samsung { display: flex;
+justify-content: center;
+position: relative; top:30px}
+
+.h5-color { 
+    font-weight:700;
+
+}
+
+.h3-text { font-weight:700;
+}
+
+
+.Wallgreens-text{ padding-left: 25px; 
+    font-weight:700;}
+
+
+
+.container-direccion{ color: #595959; 
+margin-top: 20px;
+
+}
+
+.section-footer { display: flex;
+    justify-content: center;
+
+
+background-color: whitesmoke;
+
+}
+.h4-footer {margin-bottom: 5px;}
+.p-footer {margin-bottom: 5px;}
+
+.icon-cat2 { width: 100px; height: 100px;
+margin-left: 16px;
+
+}
+
+
+.kityy-cat3-icon { 
+display: flex;
+align-items: center;
+margin-left: 25px;
+width: 350px;
+height: 350px;
+
+}
+
+@media only screen and (min-width: 600px) {
+    .container-1 { display: flex;
+    align-items: center;}
+
+
+ 
+
+  }
+
+  @media only screen and (max-width: 600px) {
+    #kitty-icon-main { display: none;}
+    .kityy-cat3-icon { 
+        display: flex;
+        justify-content: center;
+        }
+
+
+    
+
+  }
